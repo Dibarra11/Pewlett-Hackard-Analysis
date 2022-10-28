@@ -7,7 +7,11 @@ Pewlett Hackard provided us with large data base of employees and they need to d
 
 ## Results
 
-Based on the following four tables, we obtain the desired information for employees whom might retire soon. The table shows employees who where born between years 1952 ans 1955.
+Based on the following four tables, we obtain the desired information for employees whom might retire soon. 
+
+The table 1 shows employees who where born between years 1952 ans 1955.
 
 ![image](Resources/1.png)
 ![image](Resources/1-1.png)
+
+Table 2 

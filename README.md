@@ -19,3 +19,9 @@ Table 2
 Utilizing the DISTINCT ON function we removed the employee names whos names are repited on the table.
 
 ![image](Resources/2.png)
+
+Table 3
+
+Shows th amount of employees possibly retiring by department. The ORDER BY fucntion was utilized to display the count column in descending oreder.
+
+![image](resources/3.png)

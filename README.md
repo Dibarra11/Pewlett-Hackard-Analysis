@@ -40,8 +40,24 @@ indicates employees who are born after 1965, and meet the critery to be in the m
 ## Summary
 
 The analysis shows that there are a possible of 72,458 employees who will retire. 
+  25,916 Senior Engineer
+  24,926 Senior Staff
+  9,285 Engineer
+  7,636 Staff
+  3,603 Technique Leader
+  1,090 Assistant Engineer
+  2 Managers
 
 - How many employees are qualified to be in the mentorship program to train the new generation
 
-There are 1549 emloyees eligible for the mentoring program.
+  There are 1549 emloyees eligible for the mentoring program.
+  
+  Additional queries that could determone the outcome of the retiring workforce of Pewlett Hackard
+  
+  Employees gender and Salary
+  
+  ![image](Resources/5.png)
+  
+  ![image]/(Resources/5-1.png)
+  
 

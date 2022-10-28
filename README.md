@@ -28,3 +28,12 @@ Utilizing the DISTINCT ON function we removed the employee names whos names are 
 Shows th amount of employees possibly retiring by department. The ORDER BY fucntion was utilized to display the count column in descending oreder.
 
 ![image](Resources/3.png)
+
+### Table 4
+
+indicates employees who are born after 1965, and meet the critery to be in the mentorship program. The DISCTINT ON function was utilized to sort the result of the table
+
+![image](Resources/4.png)
+
+![image](resources/4-1.png)
+

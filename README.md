@@ -3,15 +3,15 @@
 
 ## Overview
 
-Pewlett Hackard provided us with large data base of employees and they need to determine how many employess are close to retirement. They want to determine how many vacacies will be need to be filled in the comming years. Based on the findings Pewlett Hackard will determine how many employees coul receive a retirement package.
+Pewlett Hackard provided us with an extensive database of employees, and they need to determine how many employees are close to retirement. In addition, they want to determine how many vacancies will need to be filled in the coming years. Finally, based on the findings, Pewlett Hackard will determine how many employees could receive a retirement package.
 
 ## Results
 
-Based on the following four tables, we obtain the desired information for employees whom might retire soon. 
+Based on the following four tables, we obtain the desired information for employees retiring soon.
 
 ### The table 1 
 
-shows employees who where born between years 1952 ans 1955.
+It shows employees who were born between the years 1952 and 1955.
 
 ![image](Resources/1.png)
 
@@ -19,19 +19,19 @@ shows employees who where born between years 1952 ans 1955.
 
 ### Table 2 
 
-Utilizing the DISTINCT ON function we removed the employee names whos names are repited on the table.
+Utilizing the DISTINCT ON function, we removed the employee names whose names are repeated on the table.
 
 ![image](Resources/2.png)
 
 ### Table 3
 
-Shows th amount of employees possibly retiring by department. The ORDER BY fucntion was utilized to display the count column in descending oreder.
+Shows the number of employees possibly retiring by the department. The ORDER BY function displayed the count column in descending order.
 
 ![image](Resources/3.png)
 
 ### Table 4
 
-indicates employees who are born after 1965, and meet the critery to be in the mentorship program. The DISCTINT ON function was utilized to sort the result of the table
+Indicates employees born after 1965 and meet the criteria to be in the mentorship program. The DISTINCT ON function was utilized to sort the result of the table
 
 ![image](Resources/4.png)
 
@@ -39,7 +39,7 @@ indicates employees who are born after 1965, and meet the critery to be in the m
 
 ## Summary
 
-The analysis shows that there are a possible of 72,458 employees who will retire. 
+The analysis shows that there is a possibility that 72,458 employees will retire. 
   25,916 Senior Engineer
   24,926 Senior Staff
   9,285 Engineer
@@ -50,11 +50,12 @@ The analysis shows that there are a possible of 72,458 employees who will retire
 
 - How many employees are qualified to be in the mentorship program to train the new generation
 
-  There are 1549 emloyees eligible for the mentoring program.
+  There are 1549 employees eligible for the mentoring program.
   
-  Additional queries that could determone the outcome of the retiring workforce of Pewlett Hackard
+  Additional queries that could determine the outcome of the retiring workforce of Pewlett Hackard
   
-  Employees gender and Salary
+  Employees' gender and Salary
+
   
   ![image](Resources/5.png)
   

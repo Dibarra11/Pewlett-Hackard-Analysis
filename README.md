@@ -37,3 +37,11 @@ indicates employees who are born after 1965, and meet the critery to be in the m
 
 ![image](Resources/4-1.png)
 
+## Summary
+
+The analysis shows that there are a possible of 72,458 employees who will retire. 
+
+- How many employees are qualified to be in the mentorship program to train the new generation
+
+There are 1549 emloyees eligible for the mentoring program.
+

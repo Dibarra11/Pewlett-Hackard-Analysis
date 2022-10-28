@@ -58,6 +58,6 @@ The analysis shows that there are a possible of 72,458 employees who will retire
   
   ![image](Resources/5.png)
   
-  ![image]/(Resources/5-1.png)
+  ![image](Resources/5-1.png)
   
 

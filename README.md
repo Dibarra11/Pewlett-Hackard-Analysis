@@ -15,3 +15,7 @@ The table 1 shows employees who where born between years 1952 ans 1955.
 ![image](Resources/1-1.png)
 
 Table 2 
+
+Utilizing the DISTINCT ON function we removed the employee names whos names are repited on the table.
+
+![image](Resources/2.png)

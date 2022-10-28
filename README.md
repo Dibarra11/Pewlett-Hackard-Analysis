@@ -35,5 +35,5 @@ indicates employees who are born after 1965, and meet the critery to be in the m
 
 ![image](Resources/4.png)
 
-![image](resources/4-1.png)
+![image](Resources/4-1.png)
 

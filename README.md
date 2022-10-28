@@ -24,4 +24,4 @@ Table 3
 
 Shows th amount of employees possibly retiring by department. The ORDER BY fucntion was utilized to display the count column in descending oreder.
 
-![image](resources/3.png)
+![image](Resources/3.png)
